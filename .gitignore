@@ -18,7 +18,7 @@ venv/
 # Root-level generated files
 /*.html
 /*.pdf
-!/AB_test_design.pdf
+!/4_AB_test_design.pdf
 /*.docx
 /*.csv
 
