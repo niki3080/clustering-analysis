@@ -1,0 +1,35 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+env/
+venv/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# Root-level generated files
+/*.html
+/*.pdf
+/*.docx
+/*.csv
+
+# Data
+/data/*
+!/data/customer_segmentation.csv
+
+# Ignore process folder contents
+/process/
+
+# Unused styles directory
+/styles/
+
+# VS Code
+.vscode/
