@@ -18,12 +18,14 @@ venv/
 # Root-level generated files
 /*.html
 /*.pdf
+!/AB_test_design.pdf
 /*.docx
 /*.csv
 
 # Data
 /data/*
 !/data/customer_segmentation.csv
+!/data/ab_test_dataset.csv
 
 # Ignore process folder contents
 /process/
