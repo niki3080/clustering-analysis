@@ -25,8 +25,5 @@ venv/
 # Ignore process folder contents
 /process/
 
-# Unused styles directory
-/styles/
-
 # VS Code
 .vscode/
